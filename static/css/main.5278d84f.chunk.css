@@ -1,0 +1,2 @@
+#root,body,html{background:#000}#root,.app,body,html{box-sizing:border-box}.app{display:grid;grid-template-columns:1fr minmax(12rem,99999rem) 1fr;grid-template-rows:1fr;height:auto;max-width:600px;margin:5rem auto auto}.number{box-sizing:border-box;font-size:250px;grid-column-start:2;grid-column-end:3;color:#a6a6a6}.minus,.number,.plus{align-self:center;justify-self:center}.plus{grid-column-start:3;grid-column-end:4}.minus{grid-column-start:1;grid-column-end:2}
+/*# sourceMappingURL=main.5278d84f.chunk.css.map */
