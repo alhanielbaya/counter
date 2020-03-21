@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/alhanielbaya.github.io/counter/static/css/main.5278d84f.chunk.css",
-    "main.js": "/alhanielbaya.github.io/counter/static/js/main.9476216e.chunk.js",
-    "main.js.map": "/alhanielbaya.github.io/counter/static/js/main.9476216e.chunk.js.map",
-    "runtime-main.js": "/alhanielbaya.github.io/counter/static/js/runtime-main.4ac87d86.js",
-    "runtime-main.js.map": "/alhanielbaya.github.io/counter/static/js/runtime-main.4ac87d86.js.map",
-    "static/css/2.53908220.chunk.css": "/alhanielbaya.github.io/counter/static/css/2.53908220.chunk.css",
-    "static/js/2.a10f758b.chunk.js": "/alhanielbaya.github.io/counter/static/js/2.a10f758b.chunk.js",
-    "static/js/2.a10f758b.chunk.js.map": "/alhanielbaya.github.io/counter/static/js/2.a10f758b.chunk.js.map",
-    "index.html": "/alhanielbaya.github.io/counter/index.html",
-    "precache-manifest.5a8ac4d3adb0bd15eee292fa163534f4.js": "/alhanielbaya.github.io/counter/precache-manifest.5a8ac4d3adb0bd15eee292fa163534f4.js",
-    "service-worker.js": "/alhanielbaya.github.io/counter/service-worker.js",
-    "static/css/2.53908220.chunk.css.map": "/alhanielbaya.github.io/counter/static/css/2.53908220.chunk.css.map",
-    "static/css/main.5278d84f.chunk.css.map": "/alhanielbaya.github.io/counter/static/css/main.5278d84f.chunk.css.map",
-    "static/js/2.a10f758b.chunk.js.LICENSE.txt": "/alhanielbaya.github.io/counter/static/js/2.a10f758b.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.5278d84f.chunk.css",
+    "main.js": "/static/js/main.9a9fbd07.chunk.js",
+    "main.js.map": "/static/js/main.9a9fbd07.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9550441e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9550441e.js.map",
+    "static/css/2.53908220.chunk.css": "/static/css/2.53908220.chunk.css",
+    "static/js/2.a10f758b.chunk.js": "/static/js/2.a10f758b.chunk.js",
+    "static/js/2.a10f758b.chunk.js.map": "/static/js/2.a10f758b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b1966773e2aad9e3c39abfaa6cbf4532.js": "/precache-manifest.b1966773e2aad9e3c39abfaa6cbf4532.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.53908220.chunk.css.map": "/static/css/2.53908220.chunk.css.map",
+    "static/css/main.5278d84f.chunk.css.map": "/static/css/main.5278d84f.chunk.css.map",
+    "static/js/2.a10f758b.chunk.js.LICENSE.txt": "/static/js/2.a10f758b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ac87d86.js",
+    "static/js/runtime-main.9550441e.js",
     "static/css/2.53908220.chunk.css",
     "static/js/2.a10f758b.chunk.js",
     "static/css/main.5278d84f.chunk.css",
-    "static/js/main.9476216e.chunk.js"
+    "static/js/main.9a9fbd07.chunk.js"
   ]
 }
