@@ -22,7 +22,11 @@ function App() {
 
   useEffect(() => {
     const localBoxes = localStorage.getItem('boxes');
-    if (localBoxes !== 'undefined') {
+    if (
+      localBoxes !== 'undefined' &&
+      localBoxes !== null &&
+      localBoxes !== 'null'
+    ) {
       setBoxes(parseInt(localBoxes));
     } else {
       setBoxes(0);
